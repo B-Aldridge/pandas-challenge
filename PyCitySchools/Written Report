@@ -1,11 +1,9 @@
 Summarization:
 
-This analysis takes the data on 15 different schools and uses this data to summarize test scores
- in reading and math.
+This analysis takes the data on 15 different schools and uses this data to summarize test scores in reading and math.
 
 Conclusions and Comparisons:
 
 Charter schools have a significatly higher overall passing % than district.
 The larger school size(2000-5000) have a signficantly lower overall passing % than any other size.
-Intrestingly enough, the larger spending range did not lead to better results, with better results
- being in the <$585 range.
+Intrestingly enough, the larger spending range did not lead to better results, with better results being in the <$585 range.
